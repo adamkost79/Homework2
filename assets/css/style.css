@@ -1,0 +1,115 @@
+body {
+  background-image: url(https://www.bypeople.com/wp-content/uploads/2014/05/light-live-background-css.jpg);
+}
+.navbar-left {
+  padding-top: 10px;
+  height: 50px;
+  width: 200px;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+.navbar-right {
+  margin-right: 115px;
+}
+.about {
+  padding: 25px;
+  height: 600px;
+  margin-top: 75px;
+  margin-right: 400px;
+  border-color: lightgrey;
+  border-width: thin;
+}
+.contact {
+  width: 300px;
+  margin-left: 650px;
+  margin-top: -620px;
+  max-height: 200px;
+  float: left;
+  border-width: thin;
+  border-color: lightgrey
+}
+.contactheader {
+  width: 300px;
+  text-align: center;
+  font-size: 20px
+}
+.thumbs {
+  width: 300px;
+  height: 100px;
+  margin-left: 75px;
+}
+.thumbs2 {
+  position: relative;
+  width:
+}
+.footer {
+  color: darkgrey;
+  text-align: center;
+  margin-top: 50px;
+  border-top-width: thick;
+  border-top-color: darkgray
+}
+#footer {
+  margin-top: 10px;
+}
+.contactform {
+  width: 500px;
+  margin-top: 100px;
+  margin-right: 540px;
+}
+#message2 {
+  height: 200px;
+  vertical-align: text-top;
+}
+.contactconnect {
+  width: 300px;
+  height: 150px;
+  margin-left: 650px;
+  margin-top: -460px;
+  text-align: center;
+  position: relative;
+}
+.footer2 {
+  margin-top: 400px;
+  text-align: center;
+  background-color: #4aaaa5;
+  color: darkgray;
+  height: 50px
+}
+#footy {
+  margin-top: 15px;
+}
+.portfolio {
+  width: 550px;
+  margin-top: 50px
+}
+.media {
+  width: 550px;
+}
+#portpic {
+  position: relative;
+  float: left;
+  padding: 25px;
+  margin-left: 30px;
+  margin-top: 5px;
+  border-color: darkgray;
+}
+.contact3 {
+  width: 300px;
+  margin-left: 650px;
+  margin-top: -770px;
+  max-height: 200px;
+  float: left;
+  border-width: thin;
+  border-color: lightgrey;
+}
+
+.portfolio p {
+   position: absolute;
+    z-index: 1; 
+    text-align: center;
+    width: 200px;
+    height: 25px;
+    background-color: #4aaaa5;
+}
